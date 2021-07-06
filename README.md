@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leadpaint75
+- 👀 I’m interested in beginniing to understand more about the front-end UI/UX.
+- 🌱 I’m currently learning C++, Python, as well as C.
+- 💞️ I’m looking to collaborate on many projects, specificially my own coding projects.
+- 📫 How to reach me: okstate.johnathan.spiva@gmail.com
